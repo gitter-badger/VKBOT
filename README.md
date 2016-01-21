@@ -5,3 +5,4 @@
 2)Запускаем через node bot.js или pm2 start bot.js
 Npm install pm2
 Pm2 startup
+

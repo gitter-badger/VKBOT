@@ -7,7 +7,7 @@
 
 
 
-
 Npm install pm2
+
 Pm2 startup
 
